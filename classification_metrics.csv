@@ -1,0 +1,2 @@
+model,test_rows,threshold,accuracy,precision,recall,f1,roc_auc
+RandomForestClassifier,240,0.5,0.8666666666666667,0.75,0.6428571428571429,0.6923076923076923,0.9175077639751552

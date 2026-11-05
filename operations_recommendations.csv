@@ -1,0 +1,25 @@
+hub_id,hub_city,segment_id,delay_rate,recommended_action
+HUB01,Mumbai,3,0.02,Maintain current operating plan and monitor weekly delay trends.
+HUB02,Delhi,3,0.04,Maintain current operating plan and monitor weekly delay trends.
+HUB03,Bengaluru,3,0.04,Maintain current operating plan and monitor weekly delay trends.
+HUB04,Hyderabad,3,0.04,Maintain current operating plan and monitor weekly delay trends.
+HUB05,Chennai,3,0.0,Maintain current operating plan and monitor weekly delay trends.
+HUB06,Pune,3,0.02,Maintain current operating plan and monitor weekly delay trends.
+HUB07,Kolkata,1,0.14,Maintain current operating plan and monitor weekly delay trends.
+HUB08,Ahmedabad,3,0.02,Maintain current operating plan and monitor weekly delay trends.
+HUB09,Jaipur,1,0.14,Maintain current operating plan and monitor weekly delay trends.
+HUB10,Lucknow,1,0.14,Maintain current operating plan and monitor weekly delay trends.
+HUB11,Chandigarh,1,0.08,Maintain current operating plan and monitor weekly delay trends.
+HUB12,Indore,1,0.16,Maintain current operating plan and monitor weekly delay trends.
+HUB13,Nagpur,2,0.46,"Review route capacity, dispatch cut-offs and weather contingency planning."
+HUB14,Coimbatore,1,0.24,Maintain current operating plan and monitor weekly delay trends.
+HUB15,Kochi,2,0.36,Review long-lane routing and consider intermediate hand-off planning.
+HUB16,Surat,1,0.14,Maintain current operating plan and monitor weekly delay trends.
+HUB17,Patna,2,0.46,"Review route capacity, dispatch cut-offs and weather contingency planning."
+HUB18,Ranchi,2,0.38,Maintain current operating plan and monitor weekly delay trends.
+HUB19,Guwahati,2,0.62,"Review route capacity, dispatch cut-offs and weather contingency planning."
+HUB20,Raipur,2,0.48,"Review route capacity, dispatch cut-offs and weather contingency planning."
+HUB21,Bhubaneswar,2,0.4,Maintain current operating plan and monitor weekly delay trends.
+HUB22,Dehradun,1,0.2,Maintain current operating plan and monitor weekly delay trends.
+HUB23,Siliguri,2,0.44,"Review route capacity, dispatch cut-offs and weather contingency planning."
+HUB24,Agartala,2,0.54,"Review route capacity, dispatch cut-offs and weather contingency planning."

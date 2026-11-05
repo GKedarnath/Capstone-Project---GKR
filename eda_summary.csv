@@ -1,0 +1,2 @@
+raw_rows,clean_rows,duplicates_removed,delay_rate,mean_delivery_hours,sentinel_weights_removed
+1224,1200,24,0.23166666666666666,56.96003333333334,5

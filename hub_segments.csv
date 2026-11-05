@@ -1,0 +1,25 @@
+hub_id,hub_city,region,hub_tier,shipments,delay_rate,avg_distance_km,avg_stops,avg_delivery_hours,segment_id,segment_profile
+HUB01,Mumbai,West,1,50,0.02,185.06099999999998,54.7,45.685,3,Relatively stable
+HUB02,Delhi,North,1,50,0.04,195.13,54.5,47.7904,3,Relatively stable
+HUB03,Bengaluru,South,1,50,0.04,200.033,55.68,49.9894,3,Relatively stable
+HUB04,Hyderabad,South,1,50,0.04,191.363,55.72,44.9116,3,Relatively stable
+HUB05,Chennai,South,1,50,0.0,184.236,53.9,45.6334,3,Relatively stable
+HUB06,Pune,West,1,50,0.02,182.64,56.14,49.6766,3,Relatively stable
+HUB07,Kolkata,East,1,50,0.14,304.736,70.76,57.8536,1,Moderate performance
+HUB08,Ahmedabad,West,1,50,0.02,184.044,56.94,46.99100000000001,3,Relatively stable
+HUB09,Jaipur,North,2,50,0.14,304.627,70.1,58.852,1,Moderate performance
+HUB10,Lucknow,North,2,50,0.14,306.13,70.48,55.786,1,Moderate performance
+HUB11,Chandigarh,North,2,50,0.08,324.48900000000003,69.14,56.696,1,Moderate performance
+HUB12,Indore,West,2,50,0.16,326.652,69.66,59.202799999999996,1,Moderate performance
+HUB13,Nagpur,West,2,50,0.46,473.32,83.92,66.0742,2,Higher-delay watchlist
+HUB14,Coimbatore,South,2,50,0.24,312.849,71.44,54.7546,1,Moderate performance
+HUB15,Kochi,South,2,50,0.36,466.514,84.1,62.96939999999999,2,Higher-delay watchlist
+HUB16,Surat,West,2,50,0.14,317.189,70.88,56.220200000000006,1,Moderate performance
+HUB17,Patna,East,3,50,0.46,443.285,84.18,60.851400000000005,2,Higher-delay watchlist
+HUB18,Ranchi,East,3,50,0.38,460.55,82.7,62.0992,2,Higher-delay watchlist
+HUB19,Guwahati,East,3,50,0.62,466.07300000000004,87.26,62.2998,2,Higher-delay watchlist
+HUB20,Raipur,East,3,50,0.48,494.616,84.28,70.0074,2,Higher-delay watchlist
+HUB21,Bhubaneswar,East,3,50,0.4,462.08,84.16,63.107,2,Higher-delay watchlist
+HUB22,Dehradun,North,3,50,0.2,316.738,73.28,55.1442,1,Moderate performance
+HUB23,Siliguri,East,3,50,0.44,488.694,84.26,69.5698,2,Higher-delay watchlist
+HUB24,Agartala,East,3,50,0.54,479.149,84.24,64.8758,2,Higher-delay watchlist

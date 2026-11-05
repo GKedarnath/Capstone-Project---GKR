@@ -1,0 +1,2 @@
+model,test_rows,MAE_hours,RMSE_hours,R2
+RandomForestRegressor,240,3.6586661056526144,4.778492419728784,0.9384926253531863

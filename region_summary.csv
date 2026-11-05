@@ -1,0 +1,5 @@
+region,shipments,delayed,mean_delivery_hours,delay_rate
+East,400,173,63.833,0.4325
+North,250,30,54.85372,0.12
+South,250,34,51.65168,0.136
+West,300,41,53.97496666666667,0.13666666666666666
